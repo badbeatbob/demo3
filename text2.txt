@@ -1,0 +1,6 @@
+Soma creates a new file
+This is the new text file
+:w
+:q!
+
+
